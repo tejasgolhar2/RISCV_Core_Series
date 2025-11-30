@@ -1,0 +1,26 @@
+Vivado Simulator v2024.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: /home/tejas/Documents/Permanent/Vivado/2024.1/bin/unwrapped/lnx64.o/xelab sim_tanu -debug all -s top_sim 
+Multi-threading is on. Using 6 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module work.program_counter
+Compiling module work.pc_plus_4
+Compiling module work.instruction_memory
+Compiling module work.Reg_file
+Compiling module work.Immediate_generator
+Compiling module work.control_unit
+Compiling module work.ALU_Control
+Compiling module work.ALU
+Compiling module work.Mux_12
+Compiling module work.Adder
+Compiling module work.AND_logic
+Compiling module work.Data_Memory
+Compiling module work.top
+Compiling module work.sim_tanu
+Built simulation snapshot top_sim
